@@ -2,6 +2,7 @@
     "name": "lony/test_composer",
     "description": "测试",
     "license": "MIT",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "杨杰",
