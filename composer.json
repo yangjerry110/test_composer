@@ -1,0 +1,9 @@
+{
+    "name": "test/test",
+    "description": "测试",
+    "require": {},
+
+    "autoload": {
+    	"psr-4":{"test\\test_composer\\":"src"}
+    }
+}
